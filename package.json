@@ -1,0 +1,19 @@
+{
+  "name": "cicd_test",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1046728/cicd_test.git"
+  },
+  "author": "james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1046728/cicd_test/issues"
+  },
+  "homepage": "https://github.com/n1046728/cicd_test#readme"
+}
