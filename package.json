@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/n1046728/cicd_test#readme",
   "devDependencies": {
+    "@commitlint/cli": "^18.6.1",
+    "@commitlint/config-conventional": "^18.6.2",
     "husky": "^8.0.0"
   }
 }
